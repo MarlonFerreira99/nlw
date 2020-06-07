@@ -3,7 +3,7 @@
 
 # NextLevelWeek - Rocketseat
 
-##Sobre o projeto
+## Projeto proposto
 
 Ecoleta é uma plataforma Marketplace para conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
